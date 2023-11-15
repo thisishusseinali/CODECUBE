@@ -4,11 +4,11 @@ Welcome to CodeCube – 🌐 My portal to showcasing innovation in Data Science,
 
 ## Get Started
 
-*Navigate to project directories for details. 🗺️*
+Navigate to project directories for details. 🗺️
 
 ## Contribution
 
-*Open issues or pull requests. Your input is valued! 🤝*
+Open issues or pull requests. Your input is valued! 🤝
 
 ## License
 
